@@ -3,6 +3,7 @@
 Hi, I'm Aryan and am currently a final year undergraduate student pursuing a B.Tech in Computer Science. I'm a mostly self-taught programmer with good problem solving and development experience. My past work experiences include:
 - Morgan Stanley (Application Development Intern, Summer 2023)
 - Uptrain AI (Machine Learning Intern, 2023)
+
 I'm passionate about generative models, reinforcement learning, computer graphics, cybersecurity and game development. Prior to working as an intern, I was an active [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) player with interests in reverse engineering, cryptography, binary exploitation and osint. My current focus is on improving my knowledge about machine learning concepts, and I'm currently researching diffusion models.
 
 Feel free to reach out to me on my [Email](mailto:contact.aryanvs@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aryanvs/). 
